@@ -1,0 +1,19 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="LincolnTube Practice" parallel="false" >
+
+<test name = "LincolntubeTube Practice">
+
+    <classes>
+        <class name="page_objects_test.LogInTest"></class>
+        <class name="page_objects_test.HomeTest"></class>
+    </classes>
+
+
+
+
+</test>
+
+</suite>
+
